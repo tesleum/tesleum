@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://www.tesleum.com/wp-content/uploads/2021/05/tesleum-crypto-icon-3.svg">
+  <img src="https://www.tesleum.com/wp-content/uploads/2023/04/tesleum.svg">
 </p>
 
 Tesleum: [Powerfull ECR20 Token](https://www.tesleum.com/token)
